@@ -1,2 +1,5 @@
-# docusign-102124-s1
-Copilot with PowerShell focus
+# DocuSign Seminar
+
+## Copilot with PowerShell focus
+
+### [Slide Deck](https://github.com/user-attachments/files/17450389/copilot-powershell.pdf)
